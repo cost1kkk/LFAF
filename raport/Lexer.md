@@ -78,7 +78,7 @@ And the output for the test.txt file was:
 12 + (34 - 5)
 
 ```
-('('INT', '12')
+('INT', '12')
 ('PLUS', '+')
 ('LPAREN', '(')
 ('INT', '34')
