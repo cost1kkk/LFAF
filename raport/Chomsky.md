@@ -13,7 +13,7 @@
     3.4.  Also, another BONUS point would be given if the student will make the aforementioned function to accept any grammar, not only the one from the student's variant.
 
 ## Screenshots
-![Results](/lab4/img3.PNG "Results")
+![Results](/raport/img3.PNG "Results")
 
 ## Implementation description
 A Python dictionary, the type of data that will be mainly used, the grammar looks like this:
